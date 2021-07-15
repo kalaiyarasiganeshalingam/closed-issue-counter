@@ -1,0 +1,6 @@
+sheet_refresh_token = ""
+sheet_client_id = ""
+sheet_client_secret = ""
+[github_spreadsheet_integration.schedule]
+github_access_token = ""
+repositoryOwner = "ballerina-platform"
